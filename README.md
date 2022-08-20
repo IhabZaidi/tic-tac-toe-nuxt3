@@ -1,3 +1,7 @@
+# Tic Tac Toe Web App
+I build this game again but in this time using Nuxt 3 and Tailwind CSS - the first one build done with flutter-.
+here you can find an [ online live version](https://gleaming-llama-154dbe.netlify.app/).
+hope you like it :)
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
